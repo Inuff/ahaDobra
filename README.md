@@ -13,13 +13,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="malpa 1.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    Projekcik dla ReginExpress
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,7 +65,7 @@
 
 Projekt ten jest stworzony dla firmy ReginExpress. będzie to strona do zamawiania jedzenia z wieloma przydatnymi i bombowymi pomysłami
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">do góry</a>)</p>
 
 
 
@@ -75,7 +75,7 @@ Projekt ten jest stworzony dla firmy ReginExpress. będzie to strona do zamawian
 * [![JS][JS.com]][JS-url]
 * [![MySQL][mySQL.com]][mySQL-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">do góry</a>)</p>
 
 
 
@@ -99,7 +99,7 @@ Twórcą tego jakże wspaniałego i monumentalnego projektu jestem ja.
    25 tys. zł
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">do góry</a>)</p>
 
 
 <!-- ROADMAP -->
@@ -111,7 +111,7 @@ Twórcą tego jakże wspaniałego i monumentalnego projektu jestem ja.
     - [ ]  Punkciki za odebranie paczki w 30 mim.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">do góry</a>)</p>
 
 
 <!-- CONTACT -->
@@ -121,7 +121,7 @@ Inuff - [@YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - gigasraka8@gma
 
 Link projektu: [https://github.com/Inuff/ahaDobra](https://github.com/Inuff/ahaDobra)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">do góry</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -138,7 +138,7 @@ Link projektu: [https://github.com/Inuff/ahaDobra](https://github.com/Inuff/ahaD
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -162,3 +162,4 @@ Link projektu: [https://github.com/Inuff/ahaDobra](https://github.com/Inuff/ahaD
 [mySQL-url]: https://mysql.com
 [JS.com]: https://img.shields.io/badge/JS-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[product-screenshot]: glowna.jpg
