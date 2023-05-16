@@ -75,8 +75,8 @@ Projekt ten jest stworzony dla firmy ReginExpress. będzie to strona do zamawian
 
 ### Built With
 
-* [![HTML][https://developer.mozilla.org/en-US/docs/Web/HTML]][HTML-url]
-* [![JS][https://developer.mozilla.org/en-US/docs/Web/JavaScript]][JS-url]
+* [![HTML][HTML.com]][HTML-url]
+* [![JS][JS.com]][JS-url]
 * [![MySQL][mysql.com]][SQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -222,3 +222,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+[HTML.com]: https://img.shields.io/badge/HTML-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[HTML-url]: [https://laravel.com](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[mySQL.com]: https://img.shields.io/badge/MySQL-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[mySQL-url]: https://mysql.com
+[JS.com]: https://img.shields.io/badge/JS-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
